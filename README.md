@@ -6,7 +6,8 @@ Great way to make your presentations nicer. This is me testing it marpitt.
 
 
 ```
-git clone project
+git clone this project
+cd mrpitt-presentations
 npm install
 npm start !
 
