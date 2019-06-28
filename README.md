@@ -11,7 +11,7 @@ Consider this as a simple template for you.
 git clone this project
 cd mrpitt-presentations
 npm install
-npm start !
+npm start
 
 ```
 
@@ -28,5 +28,5 @@ or
 npm install @marp-team/marpit --save
 ```
 
-To include your markdown, open marpit.js in this project, and you will know the rest.
+**To include your markdown, open marpit.js in this project**, and you will know the rest.
 Add your contents, and do `npm start`
