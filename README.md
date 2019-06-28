@@ -12,7 +12,7 @@ git clone https://github.com/afsalthaj/marpitt-presentations.git
 cd marpitt-presentations
 npm install
 npm start
-
+// and open localhost:<port> in browser
 ```
 
 If things didn't fall in place, try out these commands for marpitt.
