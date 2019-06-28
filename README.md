@@ -8,8 +8,8 @@ This project just handles the ceremony of setting up things to quick start creat
 Consider this as a simple template for you.
 
 ```
-git clone this project
-cd mrpitt-presentations
+git clone https://github.com/afsalthaj/marpitt-presentations.git
+cd marpitt-presentations
 npm install
 npm start
 
