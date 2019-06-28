@@ -1,10 +1,11 @@
 # marpitt-presentations
 
 Great way to make your presentations nicer. 
-Thanks to marpit, always been a big fan of markdown as ppts.
+Thanks to [marpit](https://github.com/marp-team/marpit).
+I have always been a big fan of it to create nice looking presentation slides from markdowns.
 
-I will be adding my own contents here for the presentations in my workplace. 
-Consider this as a template for you.
+This project just handles the ceremony of setting up things to quick start creating presentations with marpitt.
+Consider this as a simple template for you.
 
 ```
 git clone this project
@@ -25,8 +26,7 @@ or
 
 ```
 npm install @marp-team/marpit --save
-
-
 ```
 
-To create your own markdowns as presentation htmls, move to marpit.js in this project, and include your markdown, and it will work!
+To include your markdown, open marpit.js in this project, and you will know the rest.
+Add your contents, and do `npm start`
